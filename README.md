@@ -1,5 +1,4 @@
 <h3>An html project for a course in college</h1>
----
 <h1>Exercise 1: The Wizard of Oz </h1>
 <p>The purpose of this exercise is to practice identifying the html elements that make up a webpage and format text using Dreamweaver.   You will also push your files to GitHub.</p>
 <p>Use the document, reference_wizard_of_oz.pdf, as a guide. </p>
